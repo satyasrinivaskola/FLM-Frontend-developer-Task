@@ -28,11 +28,12 @@
   color: #61dafb;
 }
 .table-data{
-  background-color:white;
+  background-color:blanchedalmond;
   color:blue;
 }
 th{
-  color:seagreen
+  background-color:seagreen;
+  color:white
 }
 @keyframes App-logo-spin {
   from {
